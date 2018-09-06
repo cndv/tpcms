@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎使用TPcms，TPcms致力于使用极简的方式让你快速开发企业站，商城系统，并且企业站和商城系统都是以插件的形式集成到系统内部。
 
-You can use the [editor on GitHub](https://github.com/cndv/tpcms/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 企业信息发布系统插件模块 cms   商城系统插件模块 shop
 
 ### Markdown
 
